@@ -836,7 +836,7 @@ async function getFactoryBalance(){
 async function getClaimDetailsAdmin(){
 
 	//The "claim-id" number corresponds to the location in an array where all customer claims are stored.
-	const index = document.getElementById("claim-id-number").value
+	const index = document.getElementById("claim-id-number").value - 1
 
 	try{
 		//The "viewClaimAdmin" function in the Wallet Depository contract is called, and
