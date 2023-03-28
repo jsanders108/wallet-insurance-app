@@ -121,7 +121,7 @@ contract WalletDepository  {
     }
 
 
-    //This function allows the customer to view a specific claim filed under this policy (based on the wallet address they used to create the policy).
+    //This function allows the customer to view the claim filed under their policy.
     function viewClaimCustomer(address _policyId) external view returns (uint, address, uint, uint, address, address, uint, address, bool, bool, uint){
         address custPolicy = _policyId;
         return (
