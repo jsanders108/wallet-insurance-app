@@ -26,7 +26,7 @@ interface WalletDepositoryInterface {
 contract WalletPolicy {
 
     //The address of the Wallet Depository contract (which will not change) needs to be hard-coded into this contract. 
-    address walletDepositoryAddress = 0xB04121Deccf94E180b45375f822dFB139411D3c3;
+    address walletDepositoryAddress = 0x73D0d8bBDefDE3249dB5F9986F29Ce6675114108;
 
     //These global variables (except for PolicyType) are set via the constructor when the contract is deployed.
     uint policyType; //Type 1 = 0.02 ETH cost; Type 2 = 0.01 ETH cost
