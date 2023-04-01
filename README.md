@@ -11,4 +11,4 @@ Here is the contract address for the Wallet Depository: 0x73D0d8bBDefDE3249dB5F9
 
 Here is the contract address for the Wallet Policy Factory: 0x545f1783c524E11edC624FE56429B52645265638 (Polygon Mumbai testnet)
 
-The app can be accessed at the following website:
+The app can be accessed at the following website: https://wallet-insurance-app.netlify.app/
