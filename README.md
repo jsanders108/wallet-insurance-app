@@ -1,4 +1,4 @@
-This is a full-stack Solidity wallet insurance app. A customer may purchase insurance for a crypto wallet and be covered for up to 50 ETH in case of a hack. There are 2 policy types: 
+This is a full-stack Solidity wallet insurance app (using Ethers.js). A customer may purchase insurance for a crypto wallet and be covered for up to 50 ETH in case of a hack. There are 2 policy types: 
 
   1) For 0.02 ETH, a customer may purchase coverage for up to 50 ETH for 30 days.
   2) For 0.01 ETH, a customer may purchase coverage for up to 25 ETH for 30 days. 
